@@ -1,8 +1,8 @@
-# Projeto Natours
+# Natours Project
 
-Projeto de estudo com foco no CSS avançado. Feito no intuito de:
-- Expandir meu conhecimento de CSS com algumas propriedades quase nunca usadas.
-- Fazer uso das váriaveis, mixins e funções que o SCSS disponibiliza, além de praticar a arquitetura 7-1 e notação BEM.
+Advanced CSS-focused study project. Created with the aim to:
+- Expand my CSS knowledge by using some rarely used properties.
+- Utilize the variables, mixins, and functions provided by SCSS, while practicing the 7-1 architecture and BEM notation.
 
-## Layout Web
+## Web layout
 ![Layout-Web](https://github.com/renato-fb/assets/blob/main/projeto-natours/natours-web-full-page.png)
